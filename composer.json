@@ -1,0 +1,7 @@
+{
+    "name": "samiru/kyynel-rest",
+    "description": "A Simple REST API for PHP by Corey Maynard.",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
